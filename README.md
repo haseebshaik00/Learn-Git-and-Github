@@ -46,4 +46,8 @@
 # Forking in git
 #forking is done to use others code or to contribute to others code
 
+# Some extra commands 
+
+1) git add . :!"filename" : If you want to exclude some files from your git add .
+
 # That's it!! Keep coding!!
